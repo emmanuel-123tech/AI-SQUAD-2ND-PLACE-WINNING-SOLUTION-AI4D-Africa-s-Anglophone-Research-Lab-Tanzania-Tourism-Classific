@@ -11,3 +11,11 @@ Tanzania’s tourist attractions include the Serengeti plains, which hosts the l
 The objective of this hackathon is to develop a machine learning model that can classify the range of expenditures a tourist spends in Tanzania. The model can be used by different tour operators and the Tanzania Tourism Board to automatically help tourists across the world estimate their expenditure before visiting Tanzania.
 
 https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-challenge
+
+
+AI SQUAD TEAM MEMEBERS
+Emmanuel Ebiendele (Team Leader)
+
+Adetoro Michael Oluwaferanmi
+
+D-PROF
