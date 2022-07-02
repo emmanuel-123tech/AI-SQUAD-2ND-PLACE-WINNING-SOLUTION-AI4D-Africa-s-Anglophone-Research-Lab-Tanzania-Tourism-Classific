@@ -14,6 +14,8 @@ https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-chall
 
 
 AI SQUAD TEAM MEMEBERS
+
+
 Emmanuel Ebiendele (Team Leader)
 
 Adetoro Michael Oluwaferanmi
