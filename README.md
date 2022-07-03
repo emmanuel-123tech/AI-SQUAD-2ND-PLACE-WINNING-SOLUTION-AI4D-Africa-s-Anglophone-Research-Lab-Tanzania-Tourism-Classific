@@ -21,3 +21,6 @@ Emmanuel Ebiendele (Team Leader) https://zindi.africa/users/Ebiendele
 Adetoro Michael Oluwaferanmi https://zindi.africa/users/Mike_ade
 
 D-PROF https://zindi.africa/users/D-PROF
+
+
+NOTE: The notebook was runned on Google Colab
